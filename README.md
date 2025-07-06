@@ -17,7 +17,7 @@ This project explores stock closing price prediction using historical Tesla stoc
 - Error over Time for each Model 
 
 ## Dataset
-- Source: [Kaggle - Tesla Stock Data](#)  
+- Source: [Kaggle - Tesla Stock Data](https://www.kaggle.com/datasets/jillanisofttech/tesla-stock-price) 
 - Columns: Date, Open, High, Low, Close, Volume
 
 ## Future Plans
