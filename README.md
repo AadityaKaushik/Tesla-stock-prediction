@@ -25,4 +25,4 @@ This project explores stock closing price prediction using historical Tesla stoc
 - Additional feature engineering
 
 ## Author
-Aadi (BTech ICT @ DAIICT)
+Aaditya Kaushik (BTech ICT @ DAIICT)
